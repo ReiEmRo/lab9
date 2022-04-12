@@ -3,6 +3,7 @@ package ca.sait.securitydemo12.servlets;
 import ca.sait.securitydemo12.models.User;
 import ca.sait.securitydemo12.services.*;
 import java.io.IOException;
+import java.io.PrintWriter;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
